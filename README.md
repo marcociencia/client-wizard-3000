@@ -1,6 +1,6 @@
 # 📋 User Registration Portal
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://seu-link-do-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://client-wizard-3000.streamlit.app/)
 
 ## 🚀 Features
 
